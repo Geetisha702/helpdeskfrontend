@@ -1,0 +1,17 @@
+* {
+ box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  .logout,
+  .dashboard,
+  .create,
+  .contact
+  {
+  
+  margin-left: 280px;
+  margin-right: 280px;
+  margin-bottom: auto;
+  font-size: 20px;
+  }
+ 
